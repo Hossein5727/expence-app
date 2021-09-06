@@ -1,9 +1,9 @@
 import React from 'react'
-import TodoApp from './components/TodoApp'
+import ExpenceApp from './expence/ExpenseApp'
 function App() {
   return (
     <div >
-      <TodoApp />
+      <ExpenceApp />
     </div>
   );
 }

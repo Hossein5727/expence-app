@@ -1,0 +1,52 @@
+.app{
+    background-color: #f6f6f6;
+    color: #0d1d2c ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    font-family: Montserrat;
+}
+.expense{
+    background-color: rgba(192, 178, 178, 0.137);
+    padding: 25px 90px;
+    border-radius: 8px;
+}
+.expenseTop{
+    display: flex;
+    justify-content: space-between;
+    width: 430px;
+    margin-top: 15px;
+    align-items: center;
+}
+.expenseEnd{
+    display: flex;
+    justify-content: space-between;
+    width: 430px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.btn{
+    width: 85px;
+}
+.transForm{
+    margin: 30px auto;
+    padding: 25px 60px; 
+    background-color: rgba(31, 30, 30, 0.137);
+    width: 430px;
+    border-radius: 6px;
+}
+.searchBtn{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px !important;
+}
+.mapAction{
+    padding: 24px;
+    background-color: rgb(218, 212, 212);
+    border-radius: 6px;
+    margin: 5px;
+}
